@@ -6,7 +6,9 @@
     "attributes": [], 
    "creator":{
       "name":"OdinTools",
-      "site":"https://odin.tools"
+      "website":"https://odin.tools", 
+       "telegram": "https://t.me/odintoolsportal", 
+       "twitter": "https://x.com/odincoinsol"
    }
   }
 
